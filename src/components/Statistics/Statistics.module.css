@@ -1,0 +1,17 @@
+li {
+    list-style: none;
+}
+
+.item {
+    margin-bottom: 15px;
+}
+
+.item:last-child {
+    margin-bottom: 0;
+}
+
+.text {
+    font-size: 35px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
